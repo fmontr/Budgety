@@ -9,3 +9,5 @@ Aplicação demo que armazena receitas e despesas e calcula o percentual das des
 
 
 ![alt text](preview.png)
+
+### Give it a try on https://fmontr.github.io/budgety/
